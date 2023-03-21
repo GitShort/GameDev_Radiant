@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Other/Level_Sidescroller.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Main/Scenes/Level_Firstperson.unity
+    path: Assets/Main/Scenes/Deividas.unity
     guid: 71d4253011b4dec45a2010fbd392240d
   - enabled: 1
     path: Assets/Other/Level_Thirdperson.unity
