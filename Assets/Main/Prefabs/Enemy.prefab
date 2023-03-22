@@ -85,8 +85,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e3ee62668f8df843820ed0161e33c2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
-  sightRange: 15
+  health: 7
+  sightRange: 10
   damageToPlayer: 2
   anim: {fileID: 374994739600742456}
   playerMask:
